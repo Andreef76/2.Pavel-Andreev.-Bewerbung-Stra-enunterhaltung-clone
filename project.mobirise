@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "2.Pavel Andreev. Bewerbung – Straßenunterhaltung-clone-clone",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -25,7 +25,7 @@
         "display4Size": "1.4",
         "menu-1-font": "Jost",
         "menu-1-size": 1.4,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": true,
